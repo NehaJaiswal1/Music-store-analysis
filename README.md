@@ -62,13 +62,13 @@ Table: Top customers and top artists
 
 musicanalysis.sql – Database schema and data
 SQL_Project_Solution.sql – All queries with comments
-Suraj Final Report Music Sql.pdf – Summary of insights
+Final Report Music Sql.pdf – Summary of insights
 SQL_Project_Presentation.pptx – Final project presentation
 Dashboard_image.png – Image of the final dashboard
 Music Store Data Analysis Dashboard.Xlsx Excel file
 SQL Project instructions.pdf- Project Instruction file
 Video of Dashboard.mp4 - video of Dashboard
-Suraj Music Sql Presentation.pdf presentation of project
+Music Sql Presentation.pdf presentation of project
 
 
 🛠️ Tools Used
