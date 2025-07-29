@@ -29,45 +29,58 @@ Highlight top customers and artists
 ✅ SQL Queries Breakdown
 
 Easy Level:
-Most senior employee
-Countries with most invoices
-Top 3 invoice totals
-City with highest invoice total
-Customer who spent the most money
+
+--1. Most senior employee
+
+--2. Countries with most invoices
+
+--3. Top 3 invoice 
+
+--4. City with highest invoice total
+
+--5. Customer who spent the most money
 
 Moderate Level:
 
-Customers who listen to Rock music
-Top 10 Rock artists by track count
-Tracks longer than average duration
+--1. Customers who listen to Rock music
+--2. Top 10 Rock artists by track count
+--3. Tracks longer than average duration
 
 
 Advanced Level:
 
-Customer spending per artist
-Most popular genre per country
-Top customer per country
+--1. Customer spending per artist
+--2. Most popular genre per country
+--3. Top customer per country
 
 
 📈 Dashboard Highlights (Image Included)
 
-Total invoices and sales
-Bar chart: Invoices by country
-KPI: Top invoice amount
-Pie chart: Sales by genre
-Table: Top customers and top artists
+-- Total invoices and sales
+-- Bar chart: Invoices by country
+-- KPI: Top invoice amount
+-- Pie chart: Sales by genre
+-- Table: Top customers and top artists
 
 
 📎 Files Included
 
 musicanalysis.sql – Database schema and data
+
 SQL_Project_Solution.sql – All queries with comments
+
 Final Report Music Sql.pdf – Summary of insights
+
 SQL_Project_Presentation.pptx – Final project presentation
+
 Dashboard_image.png – Image of the final dashboard
+
 Music Store Data Analysis Dashboard.Xlsx Excel file
+
 SQL Project instructions.pdf- Project Instruction file
+
 Video of Dashboard.mp4 - video of Dashboard
+
 Music Sql Presentation.pdf presentation of project
 
 
