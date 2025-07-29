@@ -11,19 +11,29 @@ Screenshot 2025-07-10 101756
 The dataset simulates a music store and includes the following tables:
 
 employee: Employee details including job title and seniority
+
 invoice: Billing and invoice data
+
 customer: Customer names, emails, and location
+
 invoice_line: Line-level invoice detail
+
 track: Track details including genre and duration
+
 album: Album details
+
 artist: Artist names
+
 genre: Music genres like Rock, Jazz, etc.
 
 📊 Project Objectives
 
 Analyze customer spending patterns
+
 Identify top-performing cities and countries
+
 Discover most popular music genres
+
 Highlight top customers and artists
 
 ✅ SQL Queries Breakdown
@@ -43,23 +53,31 @@ Easy Level:
 Moderate Level:
 
 --1. Customers who listen to Rock music
+
 --2. Top 10 Rock artists by track count
+
 --3. Tracks longer than average duration
 
 
 Advanced Level:
 
 --1. Customer spending per artist
+
 --2. Most popular genre per country
+
 --3. Top customer per country
 
 
 📈 Dashboard Highlights (Image Included)
 
 -- Total invoices and sales
+
 -- Bar chart: Invoices by country
+
 -- KPI: Top invoice amount
+
 -- Pie chart: Sales by genre
+
 -- Table: Top customers and top artists
 
 
@@ -87,8 +105,11 @@ Music Sql Presentation.pdf presentation of project
 🛠️ Tools Used
 
 PostgreSQL (via pgAdmin)
+
 Microsoft Excel (for dashboard)
+
 PowerPoint (for visual presentation)
+
 ChatGPT (for explanation & formatting)
 
 
