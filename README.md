@@ -4,7 +4,7 @@
 
 This project involves analyzing a fictional music store database using SQL to uncover business insights related to customers, sales, and music genres. The focus is on applying core SQL concepts including joins, grouping, filtering, sorting, common table expressions (CTEs), and window functions.
 
-Screenshot 2025-07-10 101756 music store model creation Dashboard_image
+Screenshot 2025-07-10 101756.png music store model creation Dashboard_image
 
 🗃️ Dataset Structure
 
