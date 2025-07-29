@@ -1,4 +1,3 @@
-# Music-store-analysis
 🎵 Music Store SQL Analysis Project
 📌 Project Overview
 This project involves analyzing a fictional music store database using SQL to uncover business insights related to customers, sales, and music genres. The focus is on applying core SQL concepts including joins, grouping, filtering, sorting, common table expressions (CTEs), and window functions.
